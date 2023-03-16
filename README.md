@@ -1,10 +1,7 @@
 ## Hello World! eu sou o Matheus Santana 🤖
 
-<div>
-<a href="https://github.com/matheussantana443"  
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=matheussantana443&show_icons=true&theme=dark"/>
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantana443&hide_progress=true&theme=dark"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussantana443&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantana443&layout=compact&theme=dark)
 
 <p align="center">
   <a href="https://skillicons.dev">
