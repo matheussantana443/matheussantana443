@@ -1,4 +1,4 @@
-## Hello World! eu sou o Matheus Santana 🤖
+## Hello World! Eu sou o Matheus Santana 🤖
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussantana443&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantana443&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
